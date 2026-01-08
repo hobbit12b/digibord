@@ -1,0 +1,16 @@
+/*
+  Kleine basislaag zodat het dashboard altijd het hele scherm vult.
+  Tailwind komt via CDN in index.html.
+*/
+
+html, body, #root {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}

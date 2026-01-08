@@ -1,0 +1,7 @@
+{
+  "name": "Digibord Klasbeheer Dashboard",
+  "description": "Een interactief dashboard voor in de klas met stoplicht, timers en een geluidsmeter.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
